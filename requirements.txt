@@ -2,4 +2,5 @@ opencv-python
 numpy
 matplotlib
 requests
-BytesIO
+exifread
+pandas
